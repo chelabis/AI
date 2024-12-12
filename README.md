@@ -1,6 +1,7 @@
-# Introduction to Computer-Vision
-## With Tensorflow
+# Computer Vision
 
-### Part 0- Handling image data
-#### Utilized PIL and OpenCV
-#### Used files: '3.jpg' , 'Monaco.ttf'
+## AI Tensorflow
+
+### Section 1: DNN
+
+### Section 2: NLP
