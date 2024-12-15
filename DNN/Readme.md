@@ -4,3 +4,5 @@
 ### Using PIL & OpenCV libraries
 #### Files: '3.jpg' image , 'Monaco.ttf' font
 
+## Part 1: Clothes Classification
+### Using fashion-mnist dataset
