@@ -6,3 +6,9 @@
 
 ## Part 1: Clothes Classification
 ### Using fashion-mnist dataset
+
+## Part 2: Horse vs human Classification
+### Binary classification Using horse-or-human dataset from kaggle
+
+## Part 3: Cats vs Dogs Classification
+### Binary classification Using cats-vs-dogs dataset from kaggle
