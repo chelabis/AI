@@ -12,3 +12,6 @@
 
 ## Part 3: Cats vs Dogs Classification
 ### Binary classification Using cats-vs-dogs dataset from kaggle
+
+## Part 4: Transfer Learning
+### Using Inception v3 model to fine tune DNN
