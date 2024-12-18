@@ -15,3 +15,6 @@
 
 ## Part 4: Transfer Learning
 ### Using Inception v3 model to fine tune DNN
+
+## Part 4: Multi-class Classification
+### Multi-class classification Using cats-vs-dogs dataset from kaggle
