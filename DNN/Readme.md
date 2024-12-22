@@ -16,5 +16,5 @@
 ## Part 4: Transfer Learning
 ### Using Inception v3 model to fine tune DNN
 
-## Part 4: Multi-class Classification
+## Part 5: Multi-class Classification
 ### Three class classification problem Using Rock-Paper-Scissors dataset from kaggle
