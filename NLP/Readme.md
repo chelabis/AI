@@ -10,4 +10,5 @@
 
 ## Part 2: Imdb Reviews Analysis
 ### Sentiment analysis task to classify imdb reviews into positive & negative classes
-### Files: 
+### Files: vecs.tsv , meta.tsv
+#### Using above files to visualize vocab 3D in tensorflow projector
