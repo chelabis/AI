@@ -7,3 +7,7 @@
 ## Part 1: Sarcasm Detection
 ### Binary classification problem to detect a text is sarcasm or not
 ### Dataset: Sarcasm.json
+
+## Part 2: Imdb Reviews Analysis
+### Sentiment analysis task to classify imdb reviews into positive & negative classes
+### Files: 
