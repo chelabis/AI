@@ -12,3 +12,5 @@
 ### Sentiment analysis task to classify imdb reviews into positive & negative classes
 ### Files: vecs.tsv , meta.tsv
 #### Using above files to visualize vocab 3D in tensorflow projector
+
+## Part 3: Introduction to Generative Models
