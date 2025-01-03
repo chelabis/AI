@@ -14,3 +14,4 @@
 #### Using above files to visualize vocab 3D in tensorflow projector
 
 ## Part 3: Introduction to Generative Models
+### Simple generative model using LSTM
